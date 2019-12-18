@@ -8,8 +8,14 @@ public class Calcolatrice {
 	
 	public int somma(int x, int y) {
 		int sum=x+y;
+		
 		return sum;
 	}
+	
+	public int molt(int x, int y) {
+		return x*y;
+	}
+	
 	
 	public double dividi(int x, int y) {
 		if(y==0) {
