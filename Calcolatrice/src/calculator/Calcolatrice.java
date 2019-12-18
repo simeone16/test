@@ -8,7 +8,7 @@ public class Calcolatrice {
 	
 	public int somma(int x, int y) {
 		int sum=x+y;
-		
+		System.out.println("modifica in remoto");
 		return sum;
 	}
 	
