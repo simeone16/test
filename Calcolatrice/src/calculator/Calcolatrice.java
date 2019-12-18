@@ -19,6 +19,7 @@ public class Calcolatrice {
 	
 	public double dividi(int x, int y) {
 		if(y==0) {
+			System.out.println("modifica locale");
 			return Double.MAX_VALUE;
 		}
 		
