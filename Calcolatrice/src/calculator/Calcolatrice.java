@@ -13,6 +13,7 @@ public class Calcolatrice {
 	}
 	
 	public int molt(int x, int y) {
+		System.out.println("MOdifica su brachtest");
 		return x*y;
 	}
 	
